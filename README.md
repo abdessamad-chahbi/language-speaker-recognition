@@ -105,3 +105,21 @@ Audio Input → MFCC Extraction → GMM Language Models → Predicted Language
 * Experiment with **Deep Learning-based embeddings (x-vectors, wav2vec2.0)**
 
 ---
+
+## 🎥 Demo
+
+### 🔹 Language Recognition Demo
+
+> ▶️ Watch how the system identifies the spoken language from an audio sample:   
+> 👉 **Demo Video – Language Recognition**   
+> 🔗 [https://github.com/abdessamad-chahbi/language-speaker-recognition/blob/main/Langue/Demo_Langue.mp4](https://github.com/abdessamad-chahbi/language-speaker-recognition/blob/main/Langue/Demo_Langue.mp4)   
+
+---
+
+### 🔹 Speaker Recognition Demo
+
+> ▶️ Watch the speaker identification in action:   
+> 👉 **Demo Video – Speaker Recognition**   
+> 🔗 [https://github.com/abdessamad-chahbi/language-speaker-recognition/blob/main/Locuteur/Demo_Locuteur.mp4](https://github.com/abdessamad-chahbi/language-speaker-recognition/blob/main/Locuteur/Demo_Locuteur.mp4)   
+
+---
