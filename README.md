@@ -46,7 +46,7 @@ This project implements an audio classification pipeline based on **MFCCs and GM
 
 ---
 
-## 🧠 Methodology (High Level)
+## 🧠 Methodology (high level)
 
 1. Preprocess audio → compute MFCC feature vectors per file.  
 2. For language recognition (Part I):
