@@ -112,7 +112,7 @@ Audio Input → MFCC Extraction → GMM Language Models → Predicted Language
 
 > ▶️ Watch how the system identifies the spoken language from an audio sample:   
 > 👉 **Demo Video – Language Recognition**   
-> 🔗 [https://github.com/abdessamad-chahbi/language-speaker-recognition/blob/main/Langue/Demo_Langue.mp4](https://github.com/abdessamad-chahbi/language-speaker-recognition/blob/main/Langue/Demo_Langue.mp4)   
+> 🔗 [https://github.com/abdessamad-chahbi/language-speaker-recognition/Langue/Demo_Langue.mp4](https://github.com/abdessamad-chahbi/language-speaker-recognition/blob/main/Langue/Demo_Langue.mp4)   
 
 ---
 
