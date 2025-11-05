@@ -120,6 +120,6 @@ Audio Input → MFCC Extraction → GMM Language Models → Predicted Language
 
 > ▶️ Watch the speaker identification in action:   
 > 👉 **Demo Video – Speaker Recognition**   
-> 🔗 [https://github.com/abdessamad-chahbi/language-speaker-recognition/blob/main/Locuteur/Demo_Locuteur.mp4](https://github.com/abdessamad-chahbi/language-speaker-recognition/blob/main/Locuteur/Demo_Locuteur.mp4)   
+> 🔗 [https://github.com/abdessamad-chahbi/language-speaker-recognition/Locuteur/Demo_Locuteur.mp4](https://github.com/abdessamad-chahbi/language-speaker-recognition/blob/main/Locuteur/Demo_Locuteur.mp4)   
 
 ---
